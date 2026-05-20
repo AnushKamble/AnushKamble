@@ -25,7 +25,7 @@
 
 ---
 
-## `> SKILL MATRIX`
+## > SKILL MATRIX
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## `> CORE SYSTEMS`
+## > CORE SYSTEMS
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -81,15 +81,8 @@
 
 ---
 
-## `> GITHUB UPTIME`
+## > GITHUB UPTIME
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnushKamble&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushKamble&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=c0c0c0"/>
-
-</div>
 
 <div align="center">
 
