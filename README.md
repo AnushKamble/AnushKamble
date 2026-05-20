@@ -7,9 +7,9 @@
 
 <br/>
 
-[![Visits](https://komarev.com/ghpvc/?username=AnushKamble&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=SYSTEM+ACCESS)](https://github.com/AnushKamble)
+[![Visits](https://komarev.com/ghpvc/?username=AnushKamble&style=for-the-badge&color=FA2A55&labelColor=0d0d0d&label=SYSTEM+ACCESS)](https://github.com/AnushKamble)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AnushKamble?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/AnushKamble)
+[![GitHub followers](https://img.shields.io/github/followers/AnushKamble?style=for-the-badge&color=FA2A55&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/AnushKamble)
 
 </div>
 
