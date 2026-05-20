@@ -1,7 +1,7 @@
 <!-- Header Matrix Rain Effect via SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FA2A55&center=true&vCenter=true&width=600&lines=Anush Kamble" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FA2A55&center=true&vCenter=true&width=600&lines=Anush+Kamble" alt="Typing SVG" />
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FA2A55&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%2F%2F+AI+Architect;Blockchain+%26+Smart+Contract+Dev;Building+the+future%2C+one+commit+at+a+time.;LLMs+%7C+Agents+%7C+Web3+%7C+Web+Dev" alt="Typing SVG" />
