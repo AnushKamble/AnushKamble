@@ -71,13 +71,11 @@
 ├──────────────────────────┬──────────────────────────────────────┤
 │  DOMAIN                  │  STACK / TOOLS                       │
 ├──────────────────────────┼──────────────────────────────────────┤
-│  Frontend Engineering    │  React · Next.js · Tailwind · GSAP   │
-│  Backend Architecture    │  Node · Postgres · Redis · REST/gRPC │
-│  AI Agent Systems        │  LangChain · CrewAI · AutoGen · RAG  │
-│  LLM Fine-tuning         │  LoRA · PEFT · HuggingFace · vLLM   │
-│  Smart Contracts         │  Solidity · Foundry · Hardhat · EVM  │
-│  DeFi Protocols          │  AMM · Vaults · Staking · Bridges    │
-│  DevOps & Infra          │  Docker · CI/CD · AWS · Vercel       │
+│  Frontend Engineering    │  React · Next.js · Tailwind          │
+│  Backend Architecture    │  Node · Postgres · Redis · REST      │
+│  AI Agent Systems        │  LangChain · RAG                     │
+│  Smart Contracts         │  Solidity · EVM                      │
+│  DevOps & Infra          │  Docker · CI/CD · Vercel             │
 └──────────────────────────┴──────────────────────────────────────┘
 ```
 
