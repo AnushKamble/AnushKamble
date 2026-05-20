@@ -22,7 +22,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.alias        = "[ YOUR NAME ]"
+        self.alias        = "Anush Kamble"
         self.location     = "Earth, Sector 3"
         self.languages    = ["TypeScript", "Python", "Solidity", "Rust", "Go"]
         self.current_op   = "Building AI agents that think, act & earn on-chain"
