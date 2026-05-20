@@ -25,7 +25,7 @@
 
 ---
 
-## > SKILL MATRIX
+## > Skill Matrix
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## > CORE SYSTEMS
+## Core Systems
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -81,7 +81,7 @@
 
 ---
 
-## > GITHUB UPTIME
+## GitHub Uptime
 
 
 <div align="center">
