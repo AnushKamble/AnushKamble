@@ -1,209 +1,298 @@
-<!-- Header Matrix Rain Effect via SVG -->
-<div align="center">
+<canvas id="bgCanvas"></canvas>
 
+<nav>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%2F%2F+AI+Architect;Blockchain+%26+Smart+Contract+Dev;Building+the+future%2C+one+commit+at+a+time.;LLMs+%7C+Agents+%7C+Web3+%7C+Web+Dev" alt="Typing SVG" />
+<div class="nav-logo">DEV<span>.</span>FOLIO</div>
 
-<br/>
+<div class="nav-status">Available for work</div>
 
-[![Visits](https://komarev.com/ghpvc/?username=AnushKamble&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=SYSTEM+ACCESS)](https://github.com/AnushKamble)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AnushKamble?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/AnushKamble)
+</nav>
 
-</div>
+<section class="hero">
 
----
+<div class="container">
 
-<div align="center">
+<div class="hero-inner">
 
-```bash
-$ whoami
-> Full Stack Developer · AI/ML Engineer · Blockchain Architect
-$ cat /etc/skills
-> Loading neural pathways... [████████████████████] 100% — ALL SYSTEMS ONLINE
-```
+<div>
 
-</div>
+<div class="hero-tag">// Full Stack · AI · Blockchain</div>
 
----
+# YOUR  
+<span class="line2">NAME.</span>
 
-## `> INITIALIZE PROFILE`
+<span class="role">Engineer</span>  ·  <span class="role">Architect</span>  ·  <span class="role">Builder</span>
 
-```python
-class Developer:
-    def __init__(self):
-        self.alias        = "[ YOUR NAME ]"
-        self.location     = "Earth, Sector 3"
-        self.languages    = ["TypeScript", "Python", "Solidity", "Rust", "Go"]
-        self.current_op   = "Building AI agents that think, act & earn on-chain"
-        self.philosophy   = "Code is law. Logic is art. Execution is everything."
+I build things that ship. Full-stack systems, AI agents that reason and act, and on-chain protocols that run without permission. I work at the edge of what's possible and push it further.
 
-    def available_for(self):
-        return [
-            "Full Stack Engineering",
-            "AI / LLM System Architecture",
-            "Blockchain & Smart Contract Auditing",
-            "Freelance & Collaboration"
-        ]
-
-    def unreachable(self):
-        return ["Mediocre work", "Bad DX", "Slow feedback loops"]
-```
-
----
-
-## `> SKILL MATRIX`
-
-<div align="center">
-
-### ⬡ FULL STACK WEB
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=for-the-badge&logo=redis&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
-
-### ⬡ ARTIFICIAL INTELLIGENCE
-
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00FF41)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D0D0D?style=for-the-badge&logo=openai&logoColor=00FF41)
-![LangChain](https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=chainlink&logoColor=00FF41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0D0D?style=for-the-badge&logo=huggingface&logoColor=00FF41)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=00FF41)
-![Anthropic](https://img.shields.io/badge/Claude_API-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=00FF41)
-![Pinecone](https://img.shields.io/badge/Pinecone-0D0D0D?style=for-the-badge&logo=pinecone&logoColor=00FF41)
-
-### ⬡ BLOCKCHAIN & WEB3
-
-![Solidity](https://img.shields.io/badge/Solidity-0D0D0D?style=for-the-badge&logo=solidity&logoColor=00FF41)
-![Ethereum](https://img.shields.io/badge/Ethereum-0D0D0D?style=for-the-badge&logo=ethereum&logoColor=00FF41)
-![Hardhat](https://img.shields.io/badge/Hardhat-0D0D0D?style=for-the-badge&logo=ethereum&logoColor=00FF41)
-![Web3.js](https://img.shields.io/badge/Web3.js-0D0D0D?style=for-the-badge&logo=web3dotjs&logoColor=00FF41)
-![IPFS](https://img.shields.io/badge/IPFS-0D0D0D?style=for-the-badge&logo=ipfs&logoColor=00FF41)
-![Foundry](https://img.shields.io/badge/Foundry-0D0D0D?style=for-the-badge&logo=ethereum&logoColor=00FF41)
+<div class="hero-cta"><button class="btn btn-primary">View Projects</button> <button class="btn btn-outline">Contact Me</button></div>
 
 </div>
 
----
+<div class="hero-visual">
 
-## `> CORE SYSTEMS`
+<div class="code-card">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                      CAPABILITY OVERVIEW                        │
-├──────────────────────────┬──────────────────────────────────────┤
-│  DOMAIN                  │  STACK / TOOLS                       │
-├──────────────────────────┼──────────────────────────────────────┤
-│  Frontend Engineering    │  React · Next.js · Tailwind · GSAP   │
-│  Backend Architecture    │  Node · Postgres · Redis · REST/gRPC │
-│  AI Agent Systems        │  LangChain · CrewAI · AutoGen · RAG  │
-│  LLM Fine-tuning         │  LoRA · PEFT · HuggingFace · vLLM   │
-│  Smart Contracts         │  Solidity · Foundry · Hardhat · EVM  │
-│  DeFi Protocols          │  AMM · Vaults · Staking · Bridges    │
-│  DevOps & Infra          │  Docker · CI/CD · AWS · Vercel       │
-└──────────────────────────┴──────────────────────────────────────┘
-```
+<div class="code-bar"><span class="code-filename">profile.ts</span></div>
 
----
+<div class="code-body">
 
-## `> GITHUB UPTIME`
+<div><span class="c-kw">const</span> <span class="c-var">dev</span> = {</div>
 
-<div align="center">
+<div>  <span class="c-fn">name</span>: <span class="c-str">"Your Name"</span>,</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnushKamble&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0"/>
+<div>  <span class="c-fn">focus</span>: [</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushKamble&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=c0c0c0"/>
+<div>    <span class="c-str">"Full Stack Web"</span>,</div>
 
-</div>
+<div>    <span class="c-str">"AI & LLM Systems"</span>,</div>
 
-<div align="center">
+<div>    <span class="c-str">"Blockchain & Web3"</span>,</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnushKamble&theme=matrix&background=0D0D0D&border=00FF41&ring=00FF41&fire=39FF14&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=009900&dates=555555)](https://git.io/streak-stats)
+<div>  ],</div>
+
+<div>  <span class="c-fn">shipping</span>: <span class="c-acc">true</span>,</div>
+
+<div>  <span class="c-fn">commits_today</span>: <span class="c-num">7</span>,</div>
+
+<div>  <span class="c-cm">// always building</span></div>
+
+<div>};</div>
+
+<div><span class="c-kw">export default</span> <span class="c-fn">dev</span>;<span class="type-cursor"></span></div>
 
 </div>
 
----
-
-## `> ACTIVE PROTOCOLS`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM_01  //  AI AGENT FRAMEWORK                          ║
-║  > Multi-agent orchestration with memory + tool use         ║
-║  > Stack: Python · LangGraph · OpenAI · PostgreSQL          ║
-║  STATUS: [██████████████████░░] DEPLOYING                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  SYSTEM_02  //  FULLSTACK SAAS PLATFORM                     ║
-║  > B2B platform with auth, billing, realtime                ║
-║  > Stack: Next.js · Supabase · Stripe · Vercel              ║
-║  STATUS: [████████████████████] LIVE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  SYSTEM_03  //  ON-CHAIN DEFI PROTOCOL                      ║
-║  > Custom AMM + yield vault with governance                 ║
-║  > Stack: Solidity · Foundry · Ethereum · The Graph         ║
-║  STATUS: [██████████░░░░░░░░░░] IN AUDIT                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> ARCHITECTURE PHILOSOPHY`
-
-> *"The best code is invisible. The best system is the one that never sleeps, never fails, and never asks for credit."*
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  I don't just write features.                            │
-│  I architect systems.                                    │
-│                                                          │
-│  ∴  Every API is a contract.                             │
-│  ∴  Every component is a decision.                       │
-│  ∴  Every smart contract is immutable law.               │
-│  ∴  Every model is a compressed worldview.               │
-│                                                          │
-│  I operate at the intersection of intelligence,          │
-│  decentralization, and execution.                        │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> ESTABLISH CONNECTION`
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/AnushKamble)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/AnushKamble)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://YOURSITE.dev)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOU@EMAIL.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/AnushKamble)
+</div>
 
 </div>
 
----
-
-<div align="center">
-
-```
-[ TRANSMISSION ENDS ]
-
-> You've reached the edge of the matrix.
-> If you've read this far — we should build something.
-
-01000010 01010101 01001001 01001100 01000100 00100000
-01010111 01001001 01010100 01001000 00100000 01001101 01000101
-```
-
-![Snake animation](https://github.com/AnushKamble/AnushKamble/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 </div>
 
----
+</section>
 
-<div align="center">
-<sub>Crafted with precision · Powered by caffeine · Deployed to prod at 3AM</sub>
+<div class="stack-section">
+
+<div class="stack-scroll-wrap">
+
+<div class="stack-scroll" id="stackScroll"><span class="stack-item"><span>▸</span>React</span> <span class="stack-item"><span>▸</span>Next.js</span> <span class="stack-item"><span>▸</span>TypeScript</span> <span class="stack-item"><span>▸</span>Node.js</span> <span class="stack-item"><span>▸</span>Python</span> <span class="stack-item"><span>▸</span>LangChain</span> <span class="stack-item"><span>▸</span>LangGraph</span> <span class="stack-item"><span>▸</span>OpenAI API</span> <span class="stack-item"><span>▸</span>Anthropic Claude</span> <span class="stack-item"><span>▸</span>RAG Systems</span> <span class="stack-item"><span>▸</span>Fine-tuning</span> <span class="stack-item"><span>▸</span>Solidity</span> <span class="stack-item"><span>▸</span>Ethereum</span> <span class="stack-item"><span>▸</span>Hardhat</span> <span class="stack-item"><span>▸</span>Foundry</span> <span class="stack-item"><span>▸</span>PostgreSQL</span> <span class="stack-item"><span>▸</span>Redis</span> <span class="stack-item"><span>▸</span>Docker</span> <span class="stack-item"><span>▸</span>AWS</span> <span class="stack-item"><span>▸</span>PyTorch</span> <span class="stack-item"><span>▸</span>React</span> <span class="stack-item"><span>▸</span>Next.js</span> <span class="stack-item"><span>▸</span>TypeScript</span> <span class="stack-item"><span>▸</span>Node.js</span> <span class="stack-item"><span>▸</span>Python</span> <span class="stack-item"><span>▸</span>LangChain</span> <span class="stack-item"><span>▸</span>LangGraph</span> <span class="stack-item"><span>▸</span>OpenAI API</span> <span class="stack-item"><span>▸</span>Anthropic Claude</span> <span class="stack-item"><span>▸</span>RAG Systems</span> <span class="stack-item"><span>▸</span>Fine-tuning</span> <span class="stack-item"><span>▸</span>Solidity</span> <span class="stack-item"><span>▸</span>Ethereum</span> <span class="stack-item"><span>▸</span>Hardhat</span> <span class="stack-item"><span>▸</span>Foundry</span> <span class="stack-item"><span>▸</span>PostgreSQL</span> <span class="stack-item"><span>▸</span>Redis</span> <span class="stack-item"><span>▸</span>Docker</span> <span class="stack-item"><span>▸</span>AWS</span> <span class="stack-item"><span>▸</span>PyTorch</span></div>
+
 </div>
+
+</div>
+
+<section>
+
+<div class="container">
+
+<div class="section-label reveal">01 / Expertise</div>
+
+## What I Build
+
+Three domains. One operating system. Everything I build lives at the intersection of performance, intelligence, and decentralization.
+
+<div class="skills-grid reveal">
+
+<div class="skill-domain"><span class="skill-domain-icon">⬡</span>
+
+### Full Stack Web
+
+End-to-end product engineering. Pixel-perfect frontends, scalable APIs, hardened databases. I ship products that handle real traffic.
+
+<div class="skill-tags"><span class="tag">React</span> <span class="tag">Next.js</span> <span class="tag">TypeScript</span> <span class="tag">Node.js</span> <span class="tag">PostgreSQL</span> <span class="tag">Redis</span> <span class="tag">Tailwind</span> <span class="tag">REST / gRPC</span> <span class="tag">Docker</span> <span class="tag">CI/CD</span></div>
+
+</div>
+
+<div class="skill-domain"><span class="skill-domain-icon">◈</span>
+
+### AI · ML · LLM Agents
+
+From fine-tuning models to shipping autonomous agents that reason, plan, and use tools. I build AI that does actual work, not demos.
+
+<div class="skill-tags"><span class="tag">Python</span> <span class="tag">LangChain</span> <span class="tag">LangGraph</span> <span class="tag">CrewAI</span> <span class="tag">OpenAI</span> <span class="tag">Claude API</span> <span class="tag">RAG</span> <span class="tag">PyTorch</span> <span class="tag">Fine-tuning</span> <span class="tag">Pinecone</span></div>
+
+</div>
+
+<div class="skill-domain"><span class="skill-domain-icon">◆</span>
+
+### Blockchain · Web3
+
+Smart contracts, DeFi protocols, and on-chain systems. I write Solidity that's auditable, optimized for gas, and built to last.
+
+<div class="skill-tags"><span class="tag">Solidity</span> <span class="tag">Ethereum</span> <span class="tag">EVM</span> <span class="tag">Hardhat</span> <span class="tag">Foundry</span> <span class="tag">Web3.js</span> <span class="tag">ethers.js</span> <span class="tag">DeFi</span> <span class="tag">IPFS</span> <span class="tag">The Graph</span></div>
+
+</div>
+
+</div>
+
+<div class="proficiency reveal">
+
+<div class="prof-grid" id="profGrid">
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">Frontend Engineering</span> <span class="prof-pct">95%</span></div>
+
+</div>
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">Backend Architecture</span> <span class="prof-pct">92%</span></div>
+
+</div>
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">LLM & Agent Systems</span> <span class="prof-pct">90%</span></div>
+
+</div>
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">Smart Contracts</span> <span class="prof-pct">88%</span></div>
+
+</div>
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">Machine Learning</span> <span class="prof-pct">82%</span></div>
+
+</div>
+
+<div class="prof-item">
+
+<div class="prof-header"><span class="prof-name">DeFi Protocol Design</span> <span class="prof-pct">85%</span></div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="container">
+
+<div class="section-label reveal">02 / Numbers</div>
+
+## By the Numbers
+
+<div class="stats-row reveal">
+
+<div class="stat-card">
+
+<div class="stat-number accent">50+</div>
+
+<div class="stat-label">Projects Shipped</div>
+
+</div>
+
+<div class="stat-card">
+
+<div class="stat-number">3</div>
+
+<div class="stat-label">Core Domains</div>
+
+</div>
+
+<div class="stat-card">
+
+<div class="stat-number accent">∞</div>
+
+<div class="stat-label">Commits to Prod</div>
+
+</div>
+
+<div class="stat-card">
+
+<div class="stat-number">01</div>
+
+<div class="stat-label">Standard: Excellence</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<div class="container">
+
+<div class="section-label reveal">03 / Connect</div>
+
+## Let's Build.
+
+Open to collaborations, contracts, and conversations. If you're building something that matters — reach out.
+
+<div class="connect-grid reveal">[
+
+<div class="connect-icon">⌥</div>
+
+<div>
+
+<div class="connect-label">Code</div>
+
+<div class="connect-name">GitHub</div>
+
+</div>
+
+](https://github.com/YOURUSERNAME)[
+
+<div class="connect-icon">◈</div>
+
+<div>
+
+<div class="connect-label">Professional</div>
+
+<div class="connect-name">LinkedIn</div>
+
+</div>
+
+](https://linkedin.com/in/YOURUSERNAME)[
+
+<div class="connect-icon">⬡</div>
+
+<div>
+
+<div class="connect-label">Thoughts</div>
+
+<div class="connect-name">Twitter / X</div>
+
+</div>
+
+](https://twitter.com/YOURUSERNAME)[
+
+<div class="connect-icon">◆</div>
+
+<div>
+
+<div class="connect-label">Direct</div>
+
+<div class="connect-name">Email</div>
+
+</div>
+
+](mailto:YOU@EMAIL.COM)</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="footer-left">© 2025 YOUR NAME · All rights reserved</div>
+
+<div class="footer-right">Built with <span>precision</span> · Deployed to <span>prod</span></div>
+
+</footer>
+
+<script>// Custom cursor const cursor = document.getElementById('cursor'); const ring = document.getElementById('cursorRing'); let mx = 0, my = 0, rx = 0, ry = 0; document.addEventListener('mousemove', e => { mx = e.clientX; my = e.clientY; cursor.style.left = mx - 5 + 'px'; cursor.style.top = my - 5 + 'px'; }); function animateRing() { rx += (mx - rx - 18) * 0.12; ry += (my - ry - 18) * 0.12; ring.style.left = rx + 'px'; ring.style.top = ry + 'px'; requestAnimationFrame(animateRing); } animateRing(); document.querySelectorAll('button, a, .skill-domain, .connect-card').forEach(el => { el.addEventListener('mouseenter', () => { cursor.style.transform = 'scale(2.5)'; ring.style.transform = 'scale(1.5)'; ring.style.borderColor = 'rgba(123,97,255,0.8)'; }); el.addEventListener('mouseleave', () => { cursor.style.transform = 'scale(1)'; ring.style.transform = 'scale(1)'; ring.style.borderColor = 'rgba(123,97,255,0.5)'; }); }); // Canvas background — floating particles + connections const canvas = document.getElementById('bgCanvas'); const ctx = canvas.getContext('2d'); let W, H, particles = []; function resize() { W = canvas.width = window.innerWidth; H = canvas.height = window.innerHeight; } resize(); window.addEventListener('resize', resize); class Particle { constructor() { this.reset(); } reset() { this.x = Math.random() * W; this.y = Math.random() * H; this.vx = (Math.random() - 0.5) * 0.3; this.vy = (Math.random() - 0.5) * 0.3; this.r = Math.random() * 1.5 + 0.3; this.alpha = Math.random() * 0.5 + 0.1; } update() { this.x += this.vx; this.y += this.vy; if (this.x < 0 || this.x > W || this.y < 0 || this.y > H) this.reset(); } draw() { ctx.beginPath(); ctx.arc(this.x, this.y, this.r, 0, Math.PI * 2); ctx.fillStyle = `rgba(123,97,255,${this.alpha})`; ctx.fill(); } } for (let i = 0; i < 80; i++) particles.push(new Particle()); function drawConnections() { for (let i = 0; i < particles.length; i++) { for (let j = i + 1; j < particles.length; j++) { const dx = particles[i].x - particles[j].x; const dy = particles[i].y - particles[j].y; const dist = Math.sqrt(dx*dx + dy*dy); if (dist < 120) { ctx.beginPath(); ctx.moveTo(particles[i].x, particles[i].y); ctx.lineTo(particles[j].x, particles[j].y); ctx.strokeStyle = `rgba(123,97,255,${(1 - dist/120) * 0.08})`; ctx.lineWidth = 0.5; ctx.stroke(); } } } } function animCanvas() { ctx.clearRect(0, 0, W, H); particles.forEach(p => { p.update(); p.draw(); }); drawConnections(); requestAnimationFrame(animCanvas); } animCanvas(); // Scroll reveal const reveals = document.querySelectorAll('.reveal'); const observer = new IntersectionObserver((entries) => { entries.forEach((entry, i) => { if (entry.isIntersecting) { setTimeout(() => entry.target.classList.add('visible'), i * 60); } }); }, { threshold: 0.1 }); reveals.forEach(el => observer.observe(el)); // Proficiency bars const barObserver = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.querySelectorAll('.prof-fill').forEach(bar => { bar.style.width = bar.dataset.width + '%'; }); } }); }, { threshold: 0.3 }); barObserver.observe(document.getElementById('profGrid'));</script>
