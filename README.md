@@ -16,30 +16,12 @@
 
 ---
 
+## 🎯 Primary Focus
 
+* 🧠 **AI & LLM Systems** &nbsp;·&nbsp; Building autonomous AI agents that think, reason, and act independently.
+* ⛓️ **Web3 & Blockchain** &nbsp;·&nbsp; Designing secure, on-chain protocols and hyper-intelligent agents that transact on-chain.
+* 💻 **Full Stack Infrastructure** &nbsp;·&nbsp; Shipping robust, end-to-end web applications built for real traffic and performance.
 
-## `> INITIALIZE PROFILE`
-
-```python
-class Developer:
-    def __init__(self):
-        self.alias        = "Anush Kamble"
-        self.location     = "Earth, Sector 3"
-        self.languages    = ["TypeScript", "Python", "Solidity", "Rust", "Go"]
-        self.current_op   = "Building AI agents that think, act & earn on-chain"
-        self.philosophy   = "Code is law. Logic is art. Execution is everything."
-
-    def available_for(self):
-        return [
-            "Full Stack Engineering",
-            "AI / LLM System Architecture",
-            "Blockchain & Smart Contract Auditing",
-            "Freelance & Collaboration"
-        ]
-
-    def unreachable(self):
-        return ["Mediocre work", "Bad DX", "Slow feedback loops"]
-```
 
 ---
 
